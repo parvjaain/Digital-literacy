@@ -1,8 +1,8 @@
 # Digital-literacy# Digital Literacy Project
 
-## Name: Pranjal Sahu  
-## Reg No: 25MIM10116  
-## Branch: Integrated M.Tech in AI ML   
+## Name: Parv jain 
+## Reg No: 25MIb10010
+## Branch: Integrated M.Tech in AI & Bioinformatic   
 ## Year: 1st Year  
 
 ---
