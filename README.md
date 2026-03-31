@@ -1,7 +1,7 @@
 # Digital-literacy# Digital Literacy Project
 
 ## Name: Parv jain 
-## Reg No: 25MIb10010
+## Reg No: 25MIB10010
 ## Branch: Integrated M.Tech in AI & Bioinformatic   
 ## Year: 1st Year  
 
